@@ -57,7 +57,7 @@ Oportunidades remotas de estágio ou júnior em Backend, Full Stack, Engenharia 
 
 ## CV oficial
 
-**Versão atual em português:** [CV_Ruan_Kovacs_Tecnologia_2026.pdf](./CV_Ruan_Kovacs_Tecnologia_2026.pdf)
+**Versão atual em português:** [CV_Ruan_Kovacs_Tecnologia_2026.pdf](./CV_OFICIAL.md)
 
 **LinkedIn:** https://www.linkedin.com/in/kovacs-ruan
 
