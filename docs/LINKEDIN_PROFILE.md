@@ -1,8 +1,8 @@
-# LinkedIn Profile Draft
+# LinkedIn Profile
 
 ## Headline
 
-**Estudante de ADS | Desenvolvedor em formação | Java • Spring Boot • TypeScript • React • IA • Dados • Automação**
+**Estudante de ADS | Desenvolvedor em formação | Backend • Full Stack • IA • Dados • Automação**
 
 ## About
 
@@ -33,3 +33,9 @@ ADS student and software developer in training focused on practical software eng
 I build backend and full-stack projects using Java, Spring Boot, TypeScript, React, PostgreSQL, Redis and Docker, with hands-on work in applied AI, RAG, tool calling, APIs, testing, security, automation and software architecture.
 
 Currently seeking internship and junior opportunities in software development, backend, full stack, applied AI, data, automation and QA.
+
+## Official profile
+
+**LinkedIn:** https://www.linkedin.com/in/kovacs-ruan
+
+**Official CV:** [CV_Ruan_Kovacs_Tecnologia_2026.pdf](./CV_Ruan_Kovacs_Tecnologia_2026.pdf)
