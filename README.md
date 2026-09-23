@@ -13,6 +13,17 @@
 
 ---
 
+## 🧭 Navegação rápida
+
+- [Projetos principais](#-projetos-principais)
+- [Como os projetos se conectam](#-como-os-projetos-se-conectam)
+- [Estudos de caso](./docs/CASE_STUDIES.md)
+- [Competências](./docs/SKILLS.md)
+- [Arquitetura do portfólio](./docs/ARCHITECTURE.md)
+- [Segurança](./docs/SECURITY.md)
+- [Status dos projetos](./docs/PROJECT_STATUS.md)
+- [Roadmap](./docs/ROADMAP.md)
+
 ## 👋 Sobre mim
 
 Sou **Ruan Kovacs**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor em formação com foco em construir software real, com arquitetura, segurança, testes, observabilidade e integração entre sistemas.
