@@ -4,7 +4,7 @@
 **Ruan Guilherme Kovacs de Oliveira**
 
 ## Headline
-**Estudante de ADS | Desenvolvedor em formação | Java • Spring Boot • TypeScript • React • IA • Dados • Automação**
+**Estudante de ADS | Desenvolvedor em formação | Backend • Full Stack • IA • Dados • Automação**
 
 ## Resumo
 Estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI, em transição para Tecnologia, com experiência profissional no Brasil e em Portugal em liderança, coordenação de equipes, organização de processos, resolução de problemas e melhoria operacional.
@@ -54,6 +54,12 @@ JUnit · Vitest · Playwright · Chromium smoke tests · Lint · Build validatio
 
 ## Direção de carreira
 Oportunidades remotas de estágio ou júnior em Backend, Full Stack, Engenharia de Software, IA aplicada, Data/Analytics, Automação e QA.
+
+## CV oficial
+
+**Versão atual em português:** [CV_Ruan_Kovacs_Tecnologia_2026.pdf](./CV_Ruan_Kovacs_Tecnologia_2026.pdf)
+
+**LinkedIn:** https://www.linkedin.com/in/kovacs-ruan
 
 ## Regra de uso
 Adaptar este perfil à vaga. Priorizar tecnologias e projetos que possam ser demonstrados pelo código, documentação, testes ou experiência apresentada.
