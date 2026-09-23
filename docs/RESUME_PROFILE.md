@@ -1,34 +1,59 @@
-# Professional Profile
+# Perfil profissional recomendado
+
+## Nome
+**Ruan Guilherme Kovacs de Oliveira**
 
 ## Headline
+**Estudante de ADS | Desenvolvedor em formação | Java • Spring Boot • TypeScript • React • IA • Dados • Automação**
 
-**Software Developer in Training | Java • Spring Boot • TypeScript • React • AI • Data • Automation**
+## Resumo
+Estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI, em transição para Tecnologia, com experiência profissional no Brasil e em Portugal em liderança, coordenação de equipes, organização de processos, resolução de problemas e melhoria operacional.
 
-## Short bio
+Em paralelo à graduação, venho construindo projetos práticos envolvendo **Java/Spring Boot, TypeScript/Node.js, React, PostgreSQL, Redis, Docker, APIs REST, testes, QA e inteligência artificial aplicada**.
 
-ADS student focused on practical software engineering. Building full-stack products with Java/Spring Boot, TypeScript/React, PostgreSQL, Redis and Docker, with additional work in AI orchestration, RAG, APIs, automation, QA and secure system integration.
+Busco oportunidade de estágio ou posição júnior em desenvolvimento de software, backend, full stack, IA aplicada, dados, automação ou QA.
 
-## Core strengths
+## Competências técnicas
+### Backend
+Java 21 · Spring Boot · Spring Security · Spring Data JPA · Node.js · TypeScript · REST · OpenAPI
 
-- Backend development
-- REST API design
-- Full-stack development
-- SQL and PostgreSQL
-- AI integration and orchestration
-- Process automation
-- Authentication and authorization
-- Automated testing and QA
-- Software architecture
-- Documentation and technical communication
+### Frontend
+React · TypeScript · Vite · SPA/PWA
 
-## Selected project evidence
+### Dados
+PostgreSQL · SQL · Flyway · Redis · pgvector
 
-**KOVI AI** — AI orchestration layer with provider routing, tools, RAG, memory, authorization boundaries, telemetry and auditability.
+### IA aplicada
+LLM orchestration · Multi-provider routing · RAG · Embeddings · Semantic memory · Tool calling · Integração governada entre IA e sistemas de domínio
 
-**KOVIAN Fitness** — Spring Boot/React platform covering domain modeling, authentication, persistence, cache, events, SSE and governed AI integration.
+### QA e engenharia
+JUnit · Vitest · Playwright · Chromium smoke tests · Lint · Build validation · Health checks · Quality gates · Git/GitHub · Docker
 
-**KOVIAN Finance** — financial domain platform emphasizing decimal precision, idempotency, audit, reconciliation and transactional outbox patterns.
+## Projetos selecionados
 
-## Technologies
+**KOVI AI** — Camada de inteligência e orquestração com provider routing, fallback, tool calling, RAG, memória, autorização, auditoria, telemetria e integração segura com domínios.
 
-Java 21 · Spring Boot · TypeScript · Node.js · React · Vite · PostgreSQL · SQL · Redis · Docker · GitHub Actions · REST · OpenAPI · JPA · Flyway · Vitest · Playwright · Python
+**KOVIAN Fitness** — Plataforma full stack com Java/Spring Boot, React, PostgreSQL, Redis, JWT, autorização, eventos, SSE, cache, métricas e integração governada com KOVI AI.
+
+**KOVIAN Finance** — Plataforma financeira com Java/Spring Boot, JPA, PostgreSQL, Redis, idempotência, auditoria, reconciliação e transactional outbox.
+
+## Experiência que complementa a transição
+
+- liderança e coordenação de equipes;
+- organização de processos;
+- acompanhamento de metas e indicadores;
+- resolução de problemas;
+- comunicação com diferentes públicos;
+- experiência profissional internacional;
+- melhoria operacional;
+- adaptação a diferentes ambientes.
+
+## Idiomas
+**Português:** nativo  
+**Inglês:** B2 — intermediário
+
+## Direção de carreira
+Oportunidades remotas de estágio ou júnior em Backend, Full Stack, Engenharia de Software, IA aplicada, Data/Analytics, Automação e QA.
+
+## Regra de uso
+Adaptar este perfil à vaga. Priorizar tecnologias e projetos que possam ser demonstrados pelo código, documentação, testes ou experiência apresentada.
