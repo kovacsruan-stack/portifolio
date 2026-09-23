@@ -38,4 +38,4 @@ Currently seeking internship and junior opportunities in software development, b
 
 **LinkedIn:** https://www.linkedin.com/in/kovacs-ruan
 
-**Official CV:** [CV_Ruan_Kovacs_Tecnologia_2026.pdf](./CV_Ruan_Kovacs_Tecnologia_2026.pdf)
+**Official CV:** [CV_Ruan_Kovacs_Tecnologia_2026.pdf](./CV_OFICIAL.md)
