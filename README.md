@@ -5,6 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-21-informational?logo=openjdk&logoColor=white" alt="Java 21">
+  <img src="https://img.shields.io/badge/Spring%20Boot-4-informational?logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/TypeScript-informational?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-informational?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/PostgreSQL-informational?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-informational?logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<p align="center">
   <a href="https://github.com/kovacsruan-stack">GitHub</a> •
   <a href="https://github.com/kovacsruan-stack/kovi-ai">KOVI AI</a> •
   <a href="https://github.com/kovacsruan-stack/kovian-fitness">KOVIAN Fitness</a> •
@@ -12,6 +21,16 @@
 </p>
 
 ---
+
+## 📌 Evidências profissionais
+
+| Recurso | Objetivo |
+|---|---|
+| [Estudos de caso](./docs/CASE_STUDIES.md) | Problema → decisão → implementação → validação |
+| [Guia para recrutadores](./docs/RECRUITER_GUIDE.md) | Leitura rápida do perfil e projetos |
+| [Perfil profissional](./docs/RESUME_PROFILE.md) | Base para currículo e LinkedIn |
+| [Demos](./docs/DEMO_LINKS.md) | Ambientes e links públicos |
+| [Roadmap](./docs/ROADMAP.md) | Próximas evoluções |
 
 ## 🧭 Navegação rápida
 
@@ -406,6 +425,10 @@ Projetos experimentais podem continuar em repositórios separados para preservar
 # 🤝 Contato
 
 **GitHub:** https://github.com/kovacsruan-stack
+
+**Portfólio:** https://github.com/kovacsruan-stack/portifolio
+
+**Perfil profissional:** [docs/RESUME_PROFILE.md](./docs/RESUME_PROFILE.md)
 
 Aberto a oportunidades de **estágio e posições júnior**, especialmente em:
 
