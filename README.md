@@ -22,6 +22,13 @@
 
 ---
 
+## 📄 CV e perfis profissionais
+
+- [CV oficial — Português (PDF)](./docs/CV_Ruan_Kovacs_Tecnologia_2026.pdf)
+- [Perfil profissional / base do CV](./docs/RESUME_PROFILE.md)
+- [LinkedIn](https://www.linkedin.com/in/kovacs-ruan)
+- [GitHub](https://github.com/kovacsruan-stack)
+
 ## 📌 Evidências profissionais
 
 | Recurso | Objetivo |
@@ -432,6 +439,10 @@ Projetos experimentais podem continuar em repositórios separados para preservar
 # 🤝 Contato
 
 **GitHub:** https://github.com/kovacsruan-stack
+
+**LinkedIn:** https://www.linkedin.com/in/kovacs-ruan
+
+**CV oficial:** [PDF](./docs/CV_Ruan_Kovacs_Tecnologia_2026.pdf)
 
 **Portfólio:** https://github.com/kovacsruan-stack/portifolio
 
