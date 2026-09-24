@@ -43,8 +43,6 @@
 
 - [GitHub Profile README](./docs/GITHUB_PROFILE_README.md)
 - [Estratégia de organização do GitHub](./docs/GITHUB_ORGANIZATION.md)
-- [LinkedIn Profile](./docs/LINKEDIN_PROFILE.md)
-- [CV Checklist](./docs/CV_CHECKLIST.md)
 
 ## 🧭 Navegação rápida
 
